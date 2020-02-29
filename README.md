@@ -1,5 +1,5 @@
 # BinClock
-## Displays system time in binary format.
+Displays system time in binary format.
 
 ## BinClock (Project Info)
 [Website](http://www.ngolde.de/binclock.html)
